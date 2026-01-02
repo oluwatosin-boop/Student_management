@@ -1,5 +1,5 @@
 # Student_management
-A simplenpython codethat allows users to:
+A simple python code that allows users to:
 Add students
 View all students 
 Delete students
